@@ -5,7 +5,11 @@
     color: #ff2076;
 }
 .panda-button {
-    background-color: #ff448e;
+   background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+   color: #fff;
+   border: none;
+   border-radius: 8px;
+   padding: 9px 25px;
 }
 .categories img{
     width: 100px;
